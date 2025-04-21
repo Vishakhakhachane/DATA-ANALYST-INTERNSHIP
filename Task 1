@@ -1,0 +1,32 @@
+Today's Task – Data Analyst Internship
+
+Date: April 21, 2025  
+Title: Data Cleaning and Exploratory Analysis using Python
+
+Task Overview:
+Worked on a dataset to clean and prepare it for analysis using **Python** in **VS Code**.  
+Key focus: handling missing values, renaming columns, and performing exploratory data analysis (EDA).
+
+Tools & Libraries Used:
+- Visual Studio Code (VS Code)
+- Python
+- Pandas
+- NumPy
+
+ Key Steps Completed:
+- Loaded dataset using Pandas
+- Checked and handled missing values
+- Cleaned column names and data types
+- Removed duplicates
+- Generated summary statistics and value counts
+
+Files in This Repo:
+- `netflix_titles` → Dataset file
+- `netflix_cleaned` → Cleaned dataset
+- `task.py` → pythin file
+
+
+---
+
+Guided with support from ChatGPT  
+This task helped improve my practical skills in Python for data analysis.
